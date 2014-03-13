@@ -1,0 +1,3 @@
+looper_track - Copy is one where I tried to use several different instances of an object for each track, but ran into problems trying to keep them distinct from one another.  
+
+Now I think I'll use one object that allows users to select which is Track 1, Track 2, Track 3, etc. to reduce bugs, and allows selecting up to 8 tracks.
